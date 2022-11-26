@@ -1,0 +1,7 @@
+My Secon Code How to send 
+***Pushing the new codes after the first Time
+
+  -add a new code : Notes2.txt
+      - git add .
+      - git commit -m "message"
+      -git push

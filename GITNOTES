@@ -8,3 +8,10 @@ git branch -M main ==> create main branch
 git remote add origin https://github.com/myesill/first_git_project.git ==> linking local repo and remote repo
 git push -u origin main ==> sending  the code to that link
 
+***Pushing the new codes after the first Time
+
+  -add a new code : Notes2.txt
+      - git add .
+      - git commit -m "message"
+      -git push
+
