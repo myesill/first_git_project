@@ -18,7 +18,7 @@ git push -u origin main ==> sending  the code to that link
 ---------------------------
 ***GIT PULL:
 
-git pull enter
+git pull  is used to get the latest code from the githup 
 git fetch enter
 git merge enter
 
