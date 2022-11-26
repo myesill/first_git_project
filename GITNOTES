@@ -1,0 +1,10 @@
+*****CREATE A GITHUP REPOSITORY:
+***Pushing the code FOR THE FIRST TIME
+echo "# first_git_project" >> README.md
+git init  ==> CREATE .GİT FOLDER İN THE PROJECT. DO ONCE FOR EACH PROJECT
+git add .   ==> add all of the the code
+git commit -m "first commit"  == creates a new version(commit)
+git branch -M main ==> create main branch
+git remote add origin https://github.com/myesill/first_git_project.git ==> linking local repo and remote repo
+git push -u origin main ==> sending  the code to that link
+
