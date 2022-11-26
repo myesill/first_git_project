@@ -1,1 +1,1 @@
-merhaba bunu göndemeye çaluışacağım ama bakalım olacak mı
+merhaba bunu göndemeye çaluışacağım ama bakalım olacak mı olmadı şimdi fetch ve merge yapacağız
